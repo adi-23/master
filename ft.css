@@ -1,0 +1,44 @@
+body{
+    background-color: aliceblue;
+}
+h1{
+    background-color: aliceblue;
+    padding: 5px;
+    color: cornflowerblue;
+    font-size: x-large;
+    font-style: italic;
+    font-family: fantasy;
+    text-align: center;
+}
+header{
+    background-color: aquamarine;
+}
+table{
+    text-align-last: center;
+}
+td{
+    font-size: large;
+    font-style: oblique;
+    padding: 10px;
+    margin: 10px;
+    margin-block-start: 10px;
+    align-self: center;
+    width: 200px;
+}
+p{
+    font-size: xx-large;
+    text-align: center;
+    padding-top: 100px;
+    text-shadow: 10pc;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: cadetblue;
+
+}
+
+footer{
+    background-color: blue;
+    text-decoration: solid;
+    font-size: x-large;
+    color: aliceblue;
+    padding-bottom: 50px;
+}
